@@ -1,4 +1,3 @@
-# Predicting-House-Prices-In-Bengaluru
 Data is provided courtesy of the Cleveland Heart Disease Database via the UCI Machine Learning repository.
 
 
@@ -13,7 +12,7 @@ Data is provided courtesy of the Cleveland Heart Disease Database via the UCI Ma
 
 	- Modelling
 
-	- Generating [Submission Files](https://github.com/Saura1996/Predicting-House-Prices-In-Bengaluru-/tree/master/Submission%20files)
+	- Generating [Submission Files](https://github.com/Saura1996/Heart-Diseases-prediction---Datadriven/tree/master/Submission%20files)
 * Link to code: [Jupyter notebook](https://github.com/Saura1996/Heart-Diseases-prediction---Datadriven/blob/master/Machine%20Learning%20with%20a%20Heart%20V1.ipynb)
 * Submitted by: Saurabh Deosarkar
 * Contact: 
